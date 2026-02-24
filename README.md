@@ -30,8 +30,10 @@ This project analyzes banking customer and loan data to identify patterns in loa
 ## 📷 Dashboard Preview
 🔹 Power BI Dashboard
 <img width="878" height="501" alt="image" src="https://github.com/user-attachments/assets/3e133ed7-1b70-4c8b-a098-0597a477c54f" />
+
 🔹 Tableau Dashboard
 <img width="1375" height="733" alt="Dashboard tableau" src="https://github.com/user-attachments/assets/9cf12b1d-2d57-4417-8e9e-aeb34041e6a7" />
+
 🔹 Excel Dashboard
 <img width="1212" height="618" alt="Dashboard excel" src="https://github.com/user-attachments/assets/543fd569-7ef3-4670-903e-5191e0fb0746" />
 
