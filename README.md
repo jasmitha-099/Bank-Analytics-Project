@@ -28,3 +28,5 @@ This project analyzes banking customer and loan data to identify patterns in loa
 - Observed patterns in loan approvals
 
 ## 📷 Dashboard Preview
+<img width="878" height="501" alt="image" src="https://github.com/user-attachments/assets/3e133ed7-1b70-4c8b-a098-0597a477c54f" />
+
